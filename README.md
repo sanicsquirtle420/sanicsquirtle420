@@ -1,10 +1,17 @@
-Hey I'm Diego or [SanicSquirtle420](https://www.github.com/sanicsquirtle420) !
+ <h1 align='center'>
+    <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' 
+        alt='Waving hand animated gif'
+        height='30px'
+        width='30px' />
+ Welcome to my GitHub page!
+</h2>
+Hello, I am Diego or SanicSquirtle420. On here you will find my Linux (currently Arch Linux) dotfiles and experiments I have done with Python or any other coding language. 
 
-This is my Github account mostly to store my [dotfiles](https://www.github.com/sanicsquirtle420/dotfiles) and any other Linux projects I have been working on. Apart from my Linux experiments, I will be having my Python experiments in here to have them stored in a safe space.
-
-Socials
-- Twitter: [@SanicSquirtle42](https://www.twitter.com/SanicSquirtle42)
-- Discord: raccoon#2891
+## Links
+- [YouTube](https://youtube.com/SanicSquirtle420)
+- [Twitter](https://twitter.com/SanicSquirtle42)
+- [Dotfiles](https://github.com/sanicsquirtle420/dotfiles/)
+- [Python Experiments](https://github.com/sanicsquirtle420/python-experiments)
 
 <!---
 sanicsquirtle420/sanicsquirtle420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
