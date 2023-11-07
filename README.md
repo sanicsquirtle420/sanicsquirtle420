@@ -8,7 +8,6 @@
 Hello, I am Diego or SanicSquirtle420. On here you will find my Linux (currently Arch Linux) dotfiles and experiments I have done with Python or any other coding language. 
 
 ## Links
-- [YouTube](https://youtube.com/SanicSquirtle420)
 - [Twitter](https://twitter.com/SanicSquirtle42)
 - [Dotfiles](https://github.com/sanicsquirtle420/dotfiles/)
 - [Python Experiments](https://github.com/sanicsquirtle420/python-experiments)
