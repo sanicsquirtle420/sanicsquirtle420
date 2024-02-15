@@ -5,12 +5,16 @@
         width='30px' />
  Welcome to my GitHub page!
 </h2>
-Hello, I am Diego or SanicSquirtle420. On here you will find my Linux (currently Arch Linux) dotfiles and experiments I have done with Python or any other coding language. 
+Hello, I am Diego or SanicSquirtle420. I am a current student at the University of Mississippi studying Computer Science.
+On here you will find coding files from my courses, personal experiments, or my dotfiles from my Arch Linux configuration. 
 
 ## Links
 - [Twitter](https://twitter.com/SanicSquirtle42)
 - [Dotfiles](https://github.com/sanicsquirtle420/dotfiles/)
-- [Python Experiments](https://github.com/sanicsquirtle420/python-experiments)
+- [UM Code](https://github.com/sanicsquirtle420/olemiss-code)
+
+## Certifications
+- CompTIA Security+ (Dec. 2023)
 
 <!---
 sanicsquirtle420/sanicsquirtle420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
