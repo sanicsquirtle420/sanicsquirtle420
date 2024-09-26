@@ -8,17 +8,17 @@
 <p> Hello, I am Diego or SanicSquirtle420. I am a current student at the <a href="https://cs.olemiss.edu">University of Mississippi</a> studying Computer Science.
 On here you will find coding files from my courses, personal experiments, or my dotfiles from my <a href="https://archlinux.org">Arch Linux</a> configuration. </p>
 
-<a href="https://github.com/sanicsquirtle420/Dotfiles/">
-  <img src = "https://img.shields.io/badge/GitHub-Dotfiles-black" alt="Git Dotfiles"/>
+<a href="https://github.com/sanicsquirtle420/dotfiles/">
+  <img src="https://raw.githubusercontent.com/sanicsquirtle420/sanicsquirtle420.github.io/refs/heads/main/assets/dotfiles64x64.png"/>
  </a>
   <a href="https://github.com/sanicsquirtle420/olemiss-code/">
-  <img src = "https://img.shields.io/badge/GitHub-UM_Code-blue" alt="Git Dotfiles"/>
+  <img src = "https://raw.githubusercontent.com/sanicsquirtle420/sanicsquirtle420.github.io/refs/heads/main/assets/olemiss64x64.png"/>
  </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanicsquirtle420&layout=compact&theme=dark)](https://github.com/SanicSquirtle420)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanicsquirtle420&layout=compact&theme=dark">
 
 <h2> Socials </h2>
-<div id="badges">
+ <div id="badges">
   <a href="https://youtube.com/sanicsquirtle420">
   <img src = "https://img.shields.io/badge/YouTube_@-SanicSquirtle420-red" alt="Subscribe on YouTube"/>
  </a>
