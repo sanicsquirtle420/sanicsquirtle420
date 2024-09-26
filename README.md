@@ -5,7 +5,7 @@
         width='30px' />
  Welcome to my GitHub page! </h1>
 
-<p> Hello, I am Diego or SanicSquirtle420. I am a current student at the University of Mississippi studying Computer Science.
+<p> Hello, I am Diego or SanicSquirtle420. I am a current student at the <a href="https://cs.olemiss.edu">University of Mississippi</a> studying Computer Science.
 On here you will find coding files from my courses, personal experiments, or my dotfiles from my Arch Linux configuration. </p>
 
 <a href="https://github.com/sanicsquirtle420/Dotfiles/">
