@@ -6,7 +6,7 @@
  Welcome to my GitHub page! </h1>
 
 <p> Hello, I am Diego or SanicSquirtle420. I am a current student at the <a href="https://cs.olemiss.edu">University of Mississippi</a> studying Computer Science.
-On here you will find coding files from my courses, personal experiments, or my dotfiles from my Arch Linux configuration. </p>
+On here you will find coding files from my courses, personal experiments, or my dotfiles from my <a href="https://archlinux.org">Arch Linux</a> configuration. </p>
 
 <a href="https://github.com/sanicsquirtle420/Dotfiles/">
   <img src = "https://img.shields.io/badge/GitHub-Dotfiles-black" alt="Git Dotfiles"/>
