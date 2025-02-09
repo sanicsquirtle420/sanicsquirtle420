@@ -8,7 +8,8 @@ Hello, I am Diego or SanicSquirtle420. I am a current student at the [University
 On here you will find coding files from my CS courses, personal projects, and my dotfiles from my [Arch Linux](https://archlinux.org) configuration.
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanicsquirtle420&layout=compact&theme=dark">
+ <img src="https://github-readme-stats.vercel.app/api?username=sanicsquirtle420&show_icons=true&layout=compact&theme=tokyonight"> <br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanicsquirtle420&layout=compact&theme=tokyonight">
 </div>
 
 ## Socials
